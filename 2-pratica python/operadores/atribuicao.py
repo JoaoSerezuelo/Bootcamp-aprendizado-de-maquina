@@ -1,0 +1,10 @@
+resultado=2
+print(resultado)
+resultado+=2#resultado=resultado+2
+print(resultado)
+resultado-=1#resultado=resultado-1
+print(resultado)
+resultado*=2#resultado=resultado*2
+print(resultado)
+resultado/=2#resultado=resultado/2
+print(resultado)

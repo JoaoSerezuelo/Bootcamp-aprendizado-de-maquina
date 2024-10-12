@@ -1,0 +1,5 @@
+print(type(3))
+print(type(3.3))
+print(type('oi'))
+print(type(True))
+print(type(False))
