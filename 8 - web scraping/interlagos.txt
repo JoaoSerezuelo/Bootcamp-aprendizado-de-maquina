@@ -1,0 +1,140 @@
+Data da corrida: 25 Março 1990
+Quem ganhou a corrida: PROST Alain
+Melhor volta: BERGER Gerhard
+------------------------------
+Data da corrida: 24 Março 1991
+Quem ganhou a corrida: SENNA Ayrton
+Melhor volta: MANSELL Nigel
+------------------------------
+Data da corrida: 5 Abril 1992
+Quem ganhou a corrida: MANSELL Nigel
+Melhor volta: PATRESE Riccardo
+------------------------------
+Data da corrida: 28 Março 1993
+Quem ganhou a corrida: SENNA Ayrton
+Melhor volta: SCHUMACHER Michael
+------------------------------
+Data da corrida: 27 Março 1994
+Quem ganhou a corrida: SCHUMACHER Michael
+Melhor volta: SCHUMACHER Michael
+------------------------------
+Data da corrida: 26 Março 1995
+Quem ganhou a corrida: SCHUMACHER Michael
+Melhor volta: SCHUMACHER Michael
+------------------------------
+Data da corrida: 31 Março 1996
+Quem ganhou a corrida: HILL Damon
+Melhor volta: HILL Damon
+------------------------------
+Data da corrida: 30 Março 1997
+Quem ganhou a corrida: VILLENEUVE Jacques
+Melhor volta: VILLENEUVE Jacques
+------------------------------
+Data da corrida: 29 Março 1998
+Quem ganhou a corrida: HAKKINEN Mika
+Melhor volta: HAKKINEN Mika
+------------------------------
+Data da corrida: 11 Abril 1999
+Quem ganhou a corrida: HAKKINEN Mika
+Melhor volta: HAKKINEN Mika
+------------------------------
+Data da corrida: 26 Março 2000
+Quem ganhou a corrida: SCHUMACHER Michael
+Melhor volta: SCHUMACHER Michael
+------------------------------
+Data da corrida: 1 Abril 2001
+Quem ganhou a corrida: COULTHARD David
+Melhor volta: SCHUMACHER Ralf
+------------------------------
+Data da corrida: 31 Março 2002
+Quem ganhou a corrida: SCHUMACHER Michael
+Melhor volta: MONTOYA Juan-Pablo
+------------------------------
+Data da corrida: 6 Abril 2003
+Quem ganhou a corrida: FISICHELLA Giancarlo
+Melhor volta: BARRICHELLO Rubens
+------------------------------
+Data da corrida: 24 Outubro 2004
+Quem ganhou a corrida: MONTOYA Juan-Pablo
+Melhor volta: MONTOYA Juan-Pablo
+------------------------------
+Data da corrida: 25 Setembro 2005
+Quem ganhou a corrida: MONTOYA Juan-Pablo
+Melhor volta: RAIKKONEN Kimi
+------------------------------
+Data da corrida: 22 Outubro 2006
+Quem ganhou a corrida: MASSA Felipe
+Melhor volta: SCHUMACHER Michael
+------------------------------
+Data da corrida: 21 Outubro 2007
+Quem ganhou a corrida: RAIKKONEN Kimi
+Melhor volta: RAIKKONEN Kimi
+------------------------------
+Data da corrida: 2 Novembro 2008
+Quem ganhou a corrida: MASSA Felipe
+Melhor volta: MASSA Felipe
+------------------------------
+Data da corrida: 18 Outubro 2009
+Quem ganhou a corrida: WEBBER Mark
+Melhor volta: WEBBER Mark
+------------------------------
+Data da corrida: 7 Novembro 2010
+Quem ganhou a corrida: VETTEL Sebastian
+Melhor volta: HAMILTON Lewis
+------------------------------
+Data da corrida: 27 Novembro 2011
+Quem ganhou a corrida: WEBBER Mark
+Melhor volta: WEBBER Mark
+------------------------------
+Data da corrida: 25 Novembro 2012
+Quem ganhou a corrida: BUTTON Jenson
+Melhor volta: HAMILTON Lewis
+------------------------------
+Data da corrida: 24 Novembro 2013
+Quem ganhou a corrida: VETTEL Sebastian
+Melhor volta: WEBBER Mark
+------------------------------
+Data da corrida: 9 Novembro 2014
+Quem ganhou a corrida: ROSBERG Nico
+Melhor volta: HAMILTON Lewis
+------------------------------
+Data da corrida: 15 Novembro 2015
+Quem ganhou a corrida: ROSBERG Nico
+Melhor volta: HAMILTON Lewis
+------------------------------
+Data da corrida: 13 Novembro 2016
+Quem ganhou a corrida: HAMILTON Lewis
+Melhor volta: VERSTAPPEN Max
+------------------------------
+Data da corrida: 12 Novembro 2017
+Quem ganhou a corrida: VETTEL Sebastian
+Melhor volta: VERSTAPPEN Max
+------------------------------
+Data da corrida: 11 Novembro 2018
+Quem ganhou a corrida: HAMILTON Lewis
+Melhor volta: BOTTAS Valtteri
+------------------------------
+Data da corrida: 17 Novembro 2019
+Quem ganhou a corrida: VERSTAPPEN Max
+Melhor volta: BOTTAS Valtteri
+------------------------------
+Data da corrida: 14 Novembro 2021
+Quem ganhou a corrida: HAMILTON Lewis
+Melhor volta: PEREZ Sergio
+------------------------------
+Data da corrida: 13 Novembro 2022
+Quem ganhou a corrida: RUSSELL George
+Melhor volta: RUSSELL George
+------------------------------
+Data da corrida: 5 Novembro 2023
+Quem ganhou a corrida: VERSTAPPEN Max
+Melhor volta: NORRIS Lando
+------------------------------
+Data da corrida: 3 Novembro 2024
+Quem ganhou a corrida: VERSTAPPEN Max
+Melhor volta: VERSTAPPEN Max
+------------------------------
+Data da corrida: 
+Quem ganhou a corrida: 
+Melhor volta: 
+------------------------------
